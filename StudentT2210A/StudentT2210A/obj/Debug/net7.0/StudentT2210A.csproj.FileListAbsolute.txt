@@ -1,0 +1,15 @@
+/Users/dungdang/Projects/StudentT2210A/StudentT2210A/obj/Debug/net7.0/StudentT2210A.csproj.AssemblyReference.cache
+/Users/dungdang/Projects/StudentT2210A/StudentT2210A/obj/Debug/net7.0/StudentT2210A.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dungdang/Projects/StudentT2210A/StudentT2210A/obj/Debug/net7.0/StudentT2210A.AssemblyInfoInputs.cache
+/Users/dungdang/Projects/StudentT2210A/StudentT2210A/obj/Debug/net7.0/StudentT2210A.AssemblyInfo.cs
+/Users/dungdang/Projects/StudentT2210A/StudentT2210A/obj/Debug/net7.0/StudentT2210A.csproj.CoreCompileInputs.cache
+/Users/dungdang/Projects/StudentT2210A/StudentT2210A/bin/Debug/net7.0/StudentT2210A
+/Users/dungdang/Projects/StudentT2210A/StudentT2210A/bin/Debug/net7.0/StudentT2210A.deps.json
+/Users/dungdang/Projects/StudentT2210A/StudentT2210A/bin/Debug/net7.0/StudentT2210A.runtimeconfig.json
+/Users/dungdang/Projects/StudentT2210A/StudentT2210A/bin/Debug/net7.0/StudentT2210A.dll
+/Users/dungdang/Projects/StudentT2210A/StudentT2210A/bin/Debug/net7.0/StudentT2210A.pdb
+/Users/dungdang/Projects/StudentT2210A/StudentT2210A/obj/Debug/net7.0/StudentT2210A.dll
+/Users/dungdang/Projects/StudentT2210A/StudentT2210A/obj/Debug/net7.0/refint/StudentT2210A.dll
+/Users/dungdang/Projects/StudentT2210A/StudentT2210A/obj/Debug/net7.0/StudentT2210A.pdb
+/Users/dungdang/Projects/StudentT2210A/StudentT2210A/obj/Debug/net7.0/StudentT2210A.genruntimeconfig.cache
+/Users/dungdang/Projects/StudentT2210A/StudentT2210A/obj/Debug/net7.0/ref/StudentT2210A.dll
